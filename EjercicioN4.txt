@@ -1,0 +1,12 @@
+InicioMayorMenorEdad
+  Definir eddad como entero:
+  Escribir "Ingresar las edades"
+  leer (edades<=20)
+ 
+   Si edad => 18 entonces 
+  Escribir "La persona es mayor de edad";
+
+   SiNo
+  Escribir "La persona es menor de edad";
+ FinSi
+FinMayorMenorEdad
